@@ -1,0 +1,35 @@
+{
+    //https://code.visualstudio.com/api/references/theme-color
+    "files.autoSave": "afterDelay",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#FDDC3D",
+        "activityBar.foreground":"#FC3E30",
+        "activityBar.inactiveForeground":"#5C57FF",
+        "titleBar.activeBackground":"#443DFC",
+        //cor da seleção do editor
+        "editor.selectionBackground":"#7570FF",
+        "menubar.selectionForeground": "#FDDA7C",
+        "panel.border":"#ff0000",
+        "panelTitle.activeBorder":"#652CE6",
+        "panelTitle.activeForeground":"#ff0000",
+        "panelTitle.inactiveForeground":"#3C36E3",
+        //Status Bar barra
+        "statusBar.noFolderBackground" : "#5D28D4",
+        "statusBarItem.hoverBackground":"#322DBD",
+        "statusBar.foreground":"#56FC9C"
+      },
+    "workbench.colorTheme": "Karla Coding Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize" : 14,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "tabnine.experimentalAutoImports": true,
+    "cSpell.language": "en,pt",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.quietSync": true,
+    "sync.gist": "58b53bd201d186d77ed4accda6b71648",
+    "sync.forceUpload": false,
+    "diffEditor.wordWrap": "on",
+   
+}
